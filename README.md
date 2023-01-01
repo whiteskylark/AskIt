@@ -1,1 +1,1 @@
-# AskIt
+Python, Flask pet project
